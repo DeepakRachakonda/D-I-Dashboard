@@ -1,0 +1,241 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 6.1643835616438309,
+            "y": 0
+          },
+          "nodeIndex": "VW_EmployeeTransferDetails",
+          "nodeLineageTag": "636b58c6-9ecf-4b5f-b658-07b3d3ff09d0",
+          "size": {
+            "height": 242,
+            "width": 195
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 493.38356164383561
+          },
+          "nodeIndex": "vwEstablishmentHRExtractReport",
+          "nodeLineageTag": "bf455793-f6f6-4770-aaec-0ae4c72577a2",
+          "size": {
+            "height": 251,
+            "width": 227
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 252.73972602739724
+          },
+          "nodeIndex": "vwLeavers14Months",
+          "nodeLineageTag": "831cd1f3-4394-4dd0-aff4-3aeaf46839d3",
+          "size": {
+            "height": 232,
+            "width": 226.1232876712329
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 339.84824486301369,
+            "y": 0
+          },
+          "nodeIndex": "vwStarters30Months",
+          "nodeLineageTag": "15812634-3bee-4174-b0e6-dfb416317e5f",
+          "size": {
+            "height": 133.06849315068493,
+            "width": 206
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 459.24657534246592,
+            "y": 368.54452054794518
+          },
+          "nodeIndex": "VW_Reporting_Calendar",
+          "nodeLineageTag": "4587ca4b-9253-448c-b47c-0bde0a4dbc0e",
+          "size": {
+            "height": 124,
+            "width": 254
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 870.23180650684924,
+            "y": 0
+          },
+          "nodeIndex": "Switch",
+          "nodeLineageTag": "9ec6c70f-af39-4177-8414-5d766a846041",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 800.39619006849307,
+            "y": 210.26541095890411
+          },
+          "nodeIndex": "DimServiceLocationsMapping",
+          "nodeLineageTag": "15f495ea-51e3-407f-bcb0-c769fe3a2c77",
+          "size": {
+            "height": 174.65753424657532,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 758.09482020547932,
+            "y": 676.67808219178085
+          },
+          "nodeIndex": "Grade",
+          "nodeLineageTag": "30f24870-d9ad-47e9-9d31-ec83377a0921",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1428.1907106164385,
+            "y": 48.287671232876711
+          },
+          "nodeIndex": "Contract Type",
+          "nodeLineageTag": "9938cd2a-30cc-423f-8c6d-77677fc62b6c",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1218.546875,
+            "y": 421.5
+          },
+          "nodeIndex": "Measure Table",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1174.3687928082193,
+            "y": 77.541095890410986
+          },
+          "nodeIndex": "Tenure Sort table",
+          "nodeLineageTag": "e9fdde8b-7c6a-46df-a7ef-3fdfd13efdca",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 2402.546875,
+            "y": 177.5
+          },
+          "nodeIndex": "FactNationalBenchMarking",
+          "nodeLineageTag": "26e7f4c9-4995-41f7-853a-c716596ac799",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 2686.546875,
+            "y": 288.65410958904113
+          },
+          "nodeIndex": "Leavers",
+          "nodeLineageTag": "d27c21ea-3dde-4a88-8d64-f7aa139db981",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2970.546875,
+            "y": 288.65410958904113
+          },
+          "nodeIndex": "Headcount by Area & Tenure",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 3254.546875,
+            "y": 288.65410958904113
+          },
+          "nodeIndex": "Headcount by JobType & Dept",
+          "nodeLineageTag": "0ec4767e-30bb-405b-bb42-2b44626ab1a9",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 980.32769691780879,
+            "y": 409.51712328767121
+          },
+          "nodeIndex": "VW_MHR_FACILITY_DTLS",
+          "nodeLineageTag": "003991c6-64be-4737-9d1b-70350c2e16db",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 3538.546875,
+            "y": 296.1917808219178
+          },
+          "nodeIndex": "HC Disability",
+          "nodeLineageTag": "7c3d729d-3929-4ac9-8505-fb32d0ecbc24",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 1
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 97.333333333333343,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}

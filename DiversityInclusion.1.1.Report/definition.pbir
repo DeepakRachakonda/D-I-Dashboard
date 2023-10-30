@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../DiversityInclusion.1.1.Dataset"
+    },
+    "byConnection": null
+  }
+}
